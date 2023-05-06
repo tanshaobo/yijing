@@ -70,6 +70,7 @@ module.exports = {
       }
     ],
     'vue/script-setup-uses-vars': 0,
-    eqeqeq: 0 // 允许使用 == !=
+    eqeqeq: 0, // 允许使用 == !=
+    'vue/multi-word-component-names': 'off'
   }
 }
